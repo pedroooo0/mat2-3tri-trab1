@@ -1,60 +1,20 @@
 <!DOCTYPE html>
-<html>
-
-<head>
-    <title> Loja de salgados </title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-</head>
-
-<body>
-    <section class="principal container">
-        <div class="container__caixa">
-            <h1 class="container__titulo"> LOJA DE salgados.</h1>
-            <img src="salgados_de_carne_lar_das_criancas_85_anos_1175_1_0fef3fc16a8055abbe2260d5d1411c9e.webp" alt="" class="container__imagem">
-            <a href="Marcia do salgados - Marcia salgados.webp" class="container__botao">  Aproveite nossas promoções de salgados.*</a>
-            <a href="www.alura.com.br" class="container__botao botao_secundario">  </a>
-            <p class="container__aviso">*Temos muitas variedades, se você ama salgaos está no lugar certo.</p>
-        </div>
-    </section>
-
-    <section class="container secundario">
-        <img src="promo.jpg" alt="salgados caseiros maravilhoo e baratos"
-            class="secundario__imagem">
-        <div class="container__descricao">
-            <h2 class="descricao__titulo">O preço cabe no seu bolso</h2>
-            <p class="descricao__texto">salgados fresquinho e baratos, com variedades de promoções e ofertas.</p>
-        </div>
-    </section>
-
-    <footer class="rodape">
-        <img src="https://www.hypeness.com.br/1/2016/05/cat-eats-cake-1-e1462833821375.jpg" alt="loja de delícias" class="rodape__logo">
-        <ul class="rodape__lista">
-            <li class="lista__link">
-                <a href="#">salgados saborosos</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">salagdos inesquecíveis</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">salgados macios</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">Bolos de amor e carinho</a>
-            </li>
-        </ul>
-        <p class="rodape__texto">Não há mal que um belo pedaço de bolo não cure! Se você está
-             para baixo ou precisa comemorar alguma coisa, eu tenho a solução! Aqui na BOLOS LEONCIO 
-             temos os melhores e mais saborosos bolos da região!</p>
-        <p class="rodape__texto"> São vários sabores, coberturas e recheios para deixar o seu dia mais feliz.
-            Venha conhecer nossa loja e provar as nossas maravilhas!</p>
-        <p class="rodape__texto">Só essa semana todos os nossos bolos estão com 25% de desconto! Parece mentira,
-             não é? Só que é verdade! A semana toda de promoção para você aproveitar o feriado com essa porção de gostosura junto da sua família.
-              Corre que promoção é só até durarem os nossos estoques.</p>
-    </footer>
-
-</body>
+<html lang="pt-br">
+  <head>
+    <title> Barbearia Zago</title>
+  </head>
+  <body>
+    <h1> Barbearia Zago</h1>
+    <p>Aqui você encontrará o melhor barbeiro do Brasil.</p>
+    <img src="phz.jpg">
+    <p>Aqui vocẽ encontrará o corte perfeito pro seu filho.</p>
+    <img src="arthur pedrao.jpg">
+    <p> Todo os tipos de cortes </p>
+    <img src="luan.jpeg">
+    <ol>
+        <li>Corte blindado</li>
+        <li>Low fade</li>
+        <li>Nevou</li>
+      </ol>
+  </body>
+</html>
