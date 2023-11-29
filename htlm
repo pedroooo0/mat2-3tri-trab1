@@ -1,9 +1,8 @@
-MIT License
 <!DOCTYPE html>
 <html>
 
 <head>
-    <title> Loja de bolos </title>
+    <title> Loja de salgados </title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css">
@@ -15,20 +14,20 @@ MIT License
 <body>
     <section class="principal container">
         <div class="container__caixa">
-            <h1 class="container__titulo"> LOJA DE BOLOS.</h1>
-            <img src="bolo_de_chocolate_lar_das_criancas_85_anos_1175_1_0fef3fc16a8055abbe2260d5d1411c9e.webp" alt="" class="container__imagem">
-            <a href="Maria Brigadeiro - Maria Bolo.webp" class="container__botao">  Aproveite nossas promoções de bolos.*</a>
+            <h1 class="container__titulo"> LOJA DE salgados.</h1>
+            <img src="salgados_de_carne_lar_das_criancas_85_anos_1175_1_0fef3fc16a8055abbe2260d5d1411c9e.webp" alt="" class="container__imagem">
+            <a href="Marcia do salgados - Marcia salgados.webp" class="container__botao">  Aproveite nossas promoções de salgados.*</a>
             <a href="www.alura.com.br" class="container__botao botao_secundario">  </a>
-            <p class="container__aviso">*Temos muitas variedades, se você ama bolos está no lugar certo.</p>
+            <p class="container__aviso">*Temos muitas variedades, se você ama salgaos está no lugar certo.</p>
         </div>
     </section>
 
     <section class="container secundario">
-        <img src="promo.jpg" alt="bolos caseiros maravilhoo e baratos"
+        <img src="promo.jpg" alt="salgados caseiros maravilhoo e baratos"
             class="secundario__imagem">
         <div class="container__descricao">
             <h2 class="descricao__titulo">O preço cabe no seu bolso</h2>
-            <p class="descricao__texto">Bolos fresquinho e baratos, com variedades de promoções e ofertas.</p>
+            <p class="descricao__texto">salgados fresquinho e baratos, com variedades de promoções e ofertas.</p>
         </div>
     </section>
 
@@ -36,13 +35,13 @@ MIT License
         <img src="https://www.hypeness.com.br/1/2016/05/cat-eats-cake-1-e1462833821375.jpg" alt="loja de delícias" class="rodape__logo">
         <ul class="rodape__lista">
             <li class="lista__link">
-                <a href="#">Bolos saborosos</a>
+                <a href="#">salgados saborosos</a>
             </li>
             <li class="lista__link">
-                <a href="#">Bolos inesquecíveis</a>
+                <a href="#">salagdos inesquecíveis</a>
             </li>
             <li class="lista__link">
-                <a href="#">Bolos macios</a>
+                <a href="#">salgados macios</a>
             </li>
             <li class="lista__link">
                 <a href="#">Bolos de amor e carinho</a>
@@ -59,6 +58,3 @@ MIT License
     </footer>
 
 </body>
-
-
-
